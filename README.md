@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh-teli&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh-teli" /> </p>
 
-- 🔭 I’m currently Intern at **Toshal Infotech**
+- 🔭 I’m currently SDE at **Toshal Infotech**
 
 - 🌱 I’m currently learning **Mern Stack ,DSA**
 
